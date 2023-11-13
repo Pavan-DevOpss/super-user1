@@ -117,6 +117,7 @@
 
 <div>
 <h1>Enhance your future with pavan it</h1>
+<h3>Contact For More Information</h3>
 </div>
 <div class="navbar navbar-fixed-bottom  bg-secondary">
 <footer class="text-center">
