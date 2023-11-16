@@ -31,11 +31,11 @@
             Courses
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Java Fullstack</a></li>
-            <li><a class="dropdown-item" href="#">Python Fullstack</a></li>
+            <li><a class="dropdown-item" href="#">Azure DevOps</a></li>
+            <li><a class="dropdown-item" href="#">AWS DevOps</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">DevOps</a></li>
-			 <li><a class="dropdown-item" href="#">AWS</a></li>
+			 <li><a class="dropdown-item" href="#">GCP</a></li>
           </ul>
         </li>       
       </ul>
