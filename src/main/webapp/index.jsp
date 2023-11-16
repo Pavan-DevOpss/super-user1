@@ -80,12 +80,12 @@
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Java Fullstack
+        Azure DevOps
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>Java Fullstack :</strong>A full-stack developer is a person who can develop application's backend and frontend. Java full-stack is basically a term used for a web developer that uses Java to develop the entire technology stack is referred to as Java full stack developer.
+        <strong>Azure DevOps :</strong>A Azure DevOps Engineer is a person who can develop and deploy application Azure DevOps is basically a term used for a web developer that uses Java to develop the entire technology stack is referred to as Java full stack developer.
       </div>
     </div>
   </div>
