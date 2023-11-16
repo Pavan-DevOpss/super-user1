@@ -117,8 +117,8 @@
 
 <div>
 <div>
-<h6>Azure DevOps Engineer is a person who can develop and deploy application Azure DevOps is basically a term used for a web developer that uses Java to develop the entire technology stack is referred to as Java full stack developer.</h6>
-<h5>This institute is the one of the best institute in hyderabad</h5>
+
+<h5>This is the Best  institute one of   in Bangalore</h5>
 </div>
 </div>
 <div class="navbar navbar-fixed-bottom  bg-secondary">
