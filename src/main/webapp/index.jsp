@@ -116,8 +116,9 @@
 </div>
 
 <div>
-<h1>Enhance your future with pavan it</h1>
-<h3>Contact For More Information</h3>
+<div>
+<h5>This institute is the one of the best institute in hyderabad</h5>
+</div>
 </div>
 <div class="navbar navbar-fixed-bottom  bg-secondary">
 <footer class="text-center">
