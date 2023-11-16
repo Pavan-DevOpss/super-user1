@@ -85,7 +85,7 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>Azure DevOps :</strong>A Azure DevOps Engineer is a person who can develop and deploy application Azure DevOps is basically a term used for a web developer that uses Java to develop the entire technology stack is referred to as Java full stack developer.
+        <strong>Azure DevOps :</strong>Azure DevOps Engineer is a person who can develop and deploy application Azure DevOps is basically a term used for a web developer that uses Java to develop the entire technology stack is referred to as Java full stack developer.
       </div>
     </div>
   </div>
@@ -117,6 +117,7 @@
 
 <div>
 <div>
+<h6>Azure DevOps Engineer is a person who can develop and deploy application Azure DevOps is basically a term used for a web developer that uses Java to develop the entire technology stack is referred to as Java full stack developer.</h6>
 <h5>This institute is the one of the best institute in hyderabad</h5>
 </div>
 </div>
